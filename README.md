@@ -1,0 +1,2 @@
+# LegoPage
+Lego home page
